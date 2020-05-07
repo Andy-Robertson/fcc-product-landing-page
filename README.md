@@ -1,2 +1,2 @@
-# fcc_product_landing_page
+# fcc-product-landing-page
 freeCodeCamp responsive web design certification - project 3
