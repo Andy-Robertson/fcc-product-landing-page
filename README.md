@@ -1,2 +1,3 @@
-# fcc-product-landing-page
-freeCodeCamp responsive web design certification - project 3
+# product-landing-page
+
+Responsive product landing page.
